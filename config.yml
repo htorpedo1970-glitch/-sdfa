@@ -1,0 +1,12 @@
+bot:
+  token: MTQ3NDUyMTMxMDI4ODgwOTk5NA.GATQzb.qOPK3cxg_bCF1BvOg820R4IaVkOGGYtRkgZgrc
+roles:
+  admin_role_id: '1474512210813518018'
+  admin_role_id_2: '1474529891314696303'
+  admin_role_id_3: '1474532144058728511'
+  admin_role_id_4: '1474535792872263731'
+  role_to_grant_id: '1474512045998215440'
+  auto_role_on_join: '1474529308629537051'
+channels:
+  ticket_channel_id: '1474530799825977456'
+  ticket_category_id: '1474530798328614996'
